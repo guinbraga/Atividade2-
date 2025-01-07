@@ -1,5 +1,9 @@
 #include "fila_dinamica.c"
 
+/*O código abaixo demonstra o funcionamento da lista após a implementacao do nó-cabeca.
+Além das funcoes de inserir e excluir, tambem a funcao de exibir foi adaptada.
+*/
+
 int main(){
     printf("Inicializando fila:\n");
     FILA fila;
